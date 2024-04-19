@@ -22,4 +22,4 @@ jobs:
     - run: npm install
     - run: npm run test:unit
     - name: Display Softuni username
-    - run: echo "dianradoslavov"
+      run: echo "dianradoslavov"
